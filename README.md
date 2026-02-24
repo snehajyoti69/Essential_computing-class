@@ -1,3 +1,3 @@
 # Essential_computing-class
-class work\n
+class work
 worst class ever
